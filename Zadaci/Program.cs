@@ -75,13 +75,9 @@ namespace Zadaci
             //broj1 = int.Parse(Console.ReadLine());
             //Console.WriteLine("Rezultat oduzimanja je: {0}", broj - broj1);
 
-            //Zadatak 8
-            //string broj = "2";
-            //string broj1 = "2";
+            ////Zadatak 8
             //decimal a;
             //decimal b;
-            //a = decimal.Parse(broj);
-            //b = decimal.Parse(broj1);
             //Console.Write("Unesite decimalni broj: ");
             //a = decimal.Parse(Console.ReadLine());
             //Console.Write("Unesite drugi decimalni broj: ");
@@ -89,17 +85,17 @@ namespace Zadaci
             //Console.WriteLine("Rezultat deljenja je: {0}", a / b);
 
 
-            ////Zadatak 9
-            //int broj;
-            //int broj1;
-            //int broj2;
-            //Console.WriteLine("Unesite prvi broj: ");
-            //broj = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Unesite drugi broj: ");
-            //broj1 = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Unesite treci broj: ");
-            //broj2 = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Rezultat operacije a+b*c: {0}", broj + broj1 * broj2);
+            //Zadatak 9
+            int broj;
+            int broj1;
+            int broj2;
+            Console.WriteLine("Unesite prvi broj: ");
+            broj = int.Parse(Console.ReadLine());
+            Console.WriteLine("Unesite drugi broj: ");
+            broj1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Unesite treci broj: ");
+            broj2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Rezultat operacije a+b*c: {0}", (broj + broj1) * broj2);
 
 
             //Zadatak 10
