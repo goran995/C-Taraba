@@ -1,0 +1,7 @@
+C:\Users\GG\source\repos\Zadaci\Zadaci\bin\Debug\Zadaci.exe.config
+C:\Users\GG\source\repos\Zadaci\Zadaci\bin\Debug\Zadaci.exe
+C:\Users\GG\source\repos\Zadaci\Zadaci\bin\Debug\Zadaci.pdb
+C:\Users\GG\source\repos\Zadaci\Zadaci\obj\Debug\Zadaci.csprojAssemblyReference.cache
+C:\Users\GG\source\repos\Zadaci\Zadaci\obj\Debug\Zadaci.csproj.CoreCompileInputs.cache
+C:\Users\GG\source\repos\Zadaci\Zadaci\obj\Debug\Zadaci.exe
+C:\Users\GG\source\repos\Zadaci\Zadaci\obj\Debug\Zadaci.pdb
